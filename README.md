@@ -35,11 +35,11 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by Mari Swifr</a>
+<a>Image by Mari Swifr</a>
   </div>
   </div>
 
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
-Last Edited on: 12/11/2022
+Last Edited on: 12/20/2024
